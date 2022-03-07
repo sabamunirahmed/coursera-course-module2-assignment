@@ -1,5 +1,6 @@
 # coursera-course-module2-assignment
-coursera course module2 assignment
+
+Link:https://github.com/sabamunirahmed/coursera-course-module2-assignment.git
 
 Woo-hoo! You get to do some coding! Exciting!
 
